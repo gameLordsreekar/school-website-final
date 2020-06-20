@@ -1,0 +1,181 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
+.head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-image: 0cm;
+  margin: 10px;
+}
+
+.body{
+  display: flex;
+  background-color: chartreuse;
+  font: 1em sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration: slateblue;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.body2{
+  display: flex;
+  color: rgb(95, 8, 235);
+  background-color: darkgoldenrod;
+  text-align: center;
+  justify-content: center;
+}
+
+.body1{
+  display: flex;
+  background-color: chartreuse;
+  font: 1em sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration: slateblue;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.home{
+  display: flex;
+  color: rgb(95, 8, 235);
+  text-align: center;
+  justify-content: center;
+}
+
+.para{
+  
+  background-color: cadetblue;
+  text-align: center;
+}
+
+.a{
+  background-color: coral;
+  display: -ms-flexbox;
+  justify-content: center;
+  
+}
+
+.b{
+  background-color: teal;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.c{
+  background-color: coral;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.d{
+  background-color: coral;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.e{
+  background-color: teal;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.f{
+  background-color: coral;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.g{
+  background-color: teal;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.h{
+  background-color: coral;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.i{
+  background-color: teal;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+
+.ad{
+  background-color: #eb08eb;
+  
+}
+
+.li{
+  background-color: darkgray;
+}
+
+.add{
+  background-color: #eb08eb;
+}
+
+.lii{
+  background-color: darkgray;
+}
+
+.aa{
+  background-color: rgb(59, 189, 233);
+}
+.bb{
+justify-content: space-evenly;
+}
+.cc{
+  background-color: rgb(59, 189, 233);
+}
+.dd{
+justify-content: space-evenly;
+}
+.ee{
+  background-color: rgb(59, 189, 233);
+}
+.q{
+  background-color: rgb(59, 189, 233);
+}
+.u{
+  background-color: rgb(82, 255, 105);
+}
+.o{
+  background-color: rgb(59, 189, 233);
+}
+.t{
+  background-color: rgb(82, 255, 105);
+}
+.m{
+  background-color: rgb(255, 103, 255);
+}
+.an{
+  background-color: rgb(252, 255, 49);
+}
+.go{
+  background-color: rgb(255, 103, 255);
+}
+.we{
+  background-color: rgb(252, 255, 49);
+}
+.logo{
+  background-color: turquoise;
+}
+.body a{
+  color: aqua ;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+}
+.body a:hover{
+  color: blue;
+}
